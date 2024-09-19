@@ -1,6 +1,6 @@
 import json
 import os
-from lib.classes.FilesSources import FilesSources
+from lib.classes.FilesSource import FilesSources
 
 class JsonSource(FilesSources):
     def create_path(self):

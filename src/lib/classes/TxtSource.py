@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from lib.classes.FilesSources import FilesSources
+from lib.classes.FilesSource import FilesSources
 
 
 class TxtSource(FilesSources):
