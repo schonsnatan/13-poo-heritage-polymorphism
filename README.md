@@ -1,12 +1,13 @@
 # 13-poo-heritage-polymorphism
 
-Minha empresa recebe arquivos nos formatos .csv e .txt em duas pastas distintas
-e preciso consolidá-los em um único dataframe.
+Use case: My company receives files in .csv and .txt formats in two separate folders.
 
-Qual seria a melhor abordagem para realizar essa tarefa?
+I need to consolidate them into a single dataframe.
 
-- polimorfismo
-- herança
+What would be the best approach to accomplish this task?
+
+- polymorphism
+- inheritance
 
 data/csv_files
-data/txt_files 
+data/txt_files
