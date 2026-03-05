@@ -1,4 +1,4 @@
-# 13-poo-heritage-polymorphism
+# OOP Heritage and Polymorphism
 
 Use case: My company receives files in .csv and .txt formats in two separate folders.
 
